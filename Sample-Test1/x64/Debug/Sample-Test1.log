@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  prime_factors_test.cpp
+C:\Users\light\source\repos\Project7\Project7\prime_factors.cpp(6,23): error C2059: 구문 오류: ')'
