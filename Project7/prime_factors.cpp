@@ -3,7 +3,7 @@ using namespace std;
 
 class PrimeFactor{
 public:
-	vector<int> of(int o))
+	vector<int> of(int o)
 	{
 		return {};
 	}
